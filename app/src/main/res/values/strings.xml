@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio02</string>
+    <string name="numero_al_azar">Numero al azar</string>
+    <string name="lo_del_dado">descripcion_imagen</string>
+    <string name="descripcion_imagen">Logo del dado</string>
+    <string name="lanzar_dado">Lanzar</string>
+    <string name="numAleatorio" />
+</resources>
